@@ -1526,3 +1526,9 @@ BCLib - The End  BiomeSource (12083adf)
 [20:05:46] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/MSP-2.5/servidor_minecraft/bclib-sync (allowDelete=true)
 [20:07:29] [Server thread/INFO]: Rekiam has made the advancement [Stone Age]
 [20:07:46] [Server thread/INFO]: Rekiam has made the advancement [Getting an Upgrade]
+[20:08:22] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
+[20:08:22] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
+[20:08:32] [Server thread/INFO]: Rekiam has made the advancement [Acquire Hardware]
+[20:14:06] [Server thread/INFO]: Rekiam has made the advancement [Monster Hunter]
+[20:14:56] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=214, y=75, z=72}
+[20:14:56] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=214, y=75, z=72}
