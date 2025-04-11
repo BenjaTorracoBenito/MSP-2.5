@@ -111,13 +111,16 @@
     "criteria": {
       "minecraft:taiga": "2025-04-10 20:34:21 +0000",
       "minecraft:frozen_river": "2025-04-10 21:18:48 +0000",
+      "minecraft:birch_forest": "2025-04-11 02:10:45 +0000",
       "minecraft:beach": "2025-04-11 01:59:10 +0000",
+      "minecraft:dark_forest": "2025-04-11 02:11:17 +0000",
       "minecraft:river": "2025-04-11 01:58:18 +0000",
       "minecraft:snowy_plains": "2025-04-10 20:36:04 +0000",
       "minecraft:dripstone_caves": "2025-04-10 21:04:29 +0000",
       "minecraft:cold_ocean": "2025-04-11 02:04:45 +0000",
       "minecraft:forest": "2025-04-10 20:32:13 +0000",
-      "minecraft:deep_cold_ocean": "2025-04-11 02:08:19 +0000"
+      "minecraft:deep_cold_ocean": "2025-04-11 02:08:19 +0000",
+      "minecraft:ocean": "2025-04-11 02:10:38 +0000"
     },
     "done": false
   },
@@ -3384,6 +3387,7 @@
       "minecraft:spider": "2025-04-10 21:13:50 +0000",
       "minecraft:evoker": "2025-04-10 21:26:58 +0000",
       "minecraft:witch": "2025-04-10 21:22:46 +0000",
+      "minecraft:enderman": "2025-04-11 02:11:27 +0000",
       "minecraft:vex": "2025-04-10 21:26:55 +0000",
       "minecraft:zombie": "2025-04-10 21:05:33 +0000"
     },
@@ -4416,6 +4420,79 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 02:11:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-04-11 02:11:57 +0000",
+      "log_spam_fixer": "2025-04-11 02:11:20 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 02:11:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 02:11:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 02:11:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 02:11:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 02:11:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 02:11:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 02:11:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 02:11:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 02:11:20 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-11 02:11:20 +0000"
+    },
+    "done": false
+  },
   "decorative_blocks:recipes/building_blocks/oak_palisade": {
     "criteria": {
       "has_log": "2025-04-11 02:00:44 +0000"
@@ -4578,6 +4655,12 @@
     },
     "done": true
   },
+  "transmog:recipes/misc/void_fragment": {
+    "criteria": {
+      "has_item": "2025-04-11 02:11:28 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/soul_daggers/soul_dagger_truthseeker_vanilla_sword": {
     "criteria": {
       "has_diamond": "2025-04-11 02:06:09 +0000"
@@ -4626,6 +4709,18 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-11 02:11:28 +0000"
+    },
+    "done": true
+  },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-04-11 02:11:28 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
     "criteria": {
       "has_diamond": "2025-04-11 02:06:09 +0000"
@@ -4662,6 +4757,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-11 02:11:28 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/sweet_tooth_chestplate": {
     "criteria": {
       "has_diamond": "2025-04-11 02:06:09 +0000"
@@ -4671,6 +4772,12 @@
   "travelersbackpack:recipes/misc/diamond": {
     "criteria": {
       "has_diamond": "2025-04-11 02:06:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-04-11 02:11:28 +0000"
     },
     "done": true
   },
@@ -4713,6 +4820,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-11 02:06:09 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-11 02:11:28 +0000"
     },
     "done": true
   },
@@ -4770,6 +4883,12 @@
     },
     "done": true
   },
+  "fwaystones:recipes/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-11 02:11:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-11 02:04:24 +0000"
@@ -4812,6 +4931,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-11 02:11:28 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/cincinnasite_sword_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-04-11 02:06:09 +0000"
@@ -4839,6 +4964,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-04-11 02:06:09 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/transmogrification_table": {
+    "criteria": {
+      "has_item": "2025-04-11 02:11:28 +0000"
     },
     "done": true
   },
