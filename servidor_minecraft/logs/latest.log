@@ -1735,3 +1735,77 @@ BCLib - The End  BiomeSource (7677d6b0)
 [00:57:25] [Server thread/INFO]: Ardillita lost connection: Disconnected
 [00:57:25] [Server thread/INFO]: Ardillita left the game
 [00:57:25] [Server thread/INFO]: Updating all forceload tickets for c1284b25-70d7-3995-aced-4f42c31f27fa
+[01:04:01] [Server thread/INFO]: Villager class_1646['Unemployed'/50, l='ServerLevel[Minecraft Returns - RPG Evolved]', x=81.06, y=66.00, z=-12.30] died, message: 'Unemployed hit the ground too hard'
+[01:10:15] [Server thread/INFO]: [Handshake] Sending channel query
+[01:10:15] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[01:10:16] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[01:10:16] [Server thread/INFO]: Ardillita[/100.109.118.79:65207] logged in with entity id 17693 at (-1366.300000011921, 62.0, 293.56307166693693)
+[01:10:16] [Server thread/INFO]: Sending server config values to client
+[01:10:16] [Server thread/INFO]: Syncing config to Ardillita (c1284b25-70d7-3995-aced-4f42c31f27fa)
+[01:10:16] [Server thread/INFO]: Loading config from file...
+[01:10:16] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:10:16] [Server thread/INFO]: Ardillita joined the game
+[01:10:16] [Server thread/INFO]: Updating all forceload tickets for c1284b25-70d7-3995-aced-4f42c31f27fa
+[01:10:16] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[01:10:20] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Ardillita. Claiming: GRAVE / Robbing: INVENTORY
+[01:10:20] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:10:20] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:10:20] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:10:20] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[01:10:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[01:10:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[01:10:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[01:10:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[01:10:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[01:10:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[01:10:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:10:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:10:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:10:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:10:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:10:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:10:20] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:10:20] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/MSP-2.5/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:10:58] [Server thread/INFO]: [Handshake] Sending channel query
+[01:10:58] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[01:10:58] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[01:10:58] [Server thread/INFO]: Rekiam[/100.79.47.78:64295] logged in with entity id 18700 at (-1804.3220089159897, 70.0, 469.3219800085502)
+[01:10:58] [Server thread/INFO]: Sending server config values to client
+[01:10:58] [Server thread/INFO]: Syncing config to Rekiam (3113516f-ef31-3868-8197-6bc01ae321bb)
+[01:10:58] [Server thread/INFO]: Loading config from file...
+[01:10:58] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:10:58] [Server thread/INFO]: Rekiam joined the game
+[01:10:58] [Server thread/INFO]: Updating all forceload tickets for 3113516f-ef31-3868-8197-6bc01ae321bb
+[01:10:59] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[01:11:01] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Rekiam. Claiming: GRAVE / Robbing: INVENTORY
+[01:11:01] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[01:11:01] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[01:11:01] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[01:11:01] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[01:11:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[01:11:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[01:11:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[01:11:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[01:11:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[01:11:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[01:11:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[01:11:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[01:11:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[01:11:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[01:11:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[01:11:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[01:11:01] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[01:11:01] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/MSP-2.5/servidor_minecraft/bclib-sync (allowDelete=true)
+[01:11:25] [Server thread/INFO]: [Rekiam: Teleported Ardillita to Rekiam]
+[01:16:32] [Server thread/INFO]: Ardillita has made the advancement [Sweet Dreams]
+[01:21:01] [Server thread/INFO]: Villager class_1646['Nitwit'/18975, l='ServerLevel[Minecraft Returns - RPG Evolved]', x=-1927.46, y=90.00, z=447.70] died, message: 'Nitwit was slain by Zombie'
+[01:22:25] [Server thread/INFO]: Villager class_1646['Unemployed'/18976, l='ServerLevel[Minecraft Returns - RPG Evolved]', x=-1925.63, y=86.50, z=448.35] died, message: 'Unemployed was slain by Zombie'
+[01:22:36] [Server thread/INFO]: Villager class_1646['Unemployed'/18844, l='ServerLevel[Minecraft Returns - RPG Evolved]', x=-1874.70, y=72.00, z=454.70] died, message: 'Unemployed was slain by Zombie'
+[01:26:31] [Server thread/INFO]: Ardillita has made the advancement [Safe Haven]
+[01:27:32] [Server thread/INFO]: Ardillita has made the advancement [Isn't It Iron Pick]
+[01:28:18] [Server thread/INFO]: Ardillita was slain by Vindicator
+[01:28:27] [Server thread/INFO]: [Rekiam: Teleported Ardillita to Rekiam]
+[01:28:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8021ms or 160 ticks behind
+[01:28:44] [Server thread/INFO]: Ardillita claimed a grave belonging to Ardillita at -1990, 80, 406, minecraft:overworld
+[01:32:00] [Server thread/INFO]: Ardillita has made the advancement [Monster Hunter]
+[01:37:36] [Server thread/INFO]: Ardillita has made the advancement [Suit Up]
