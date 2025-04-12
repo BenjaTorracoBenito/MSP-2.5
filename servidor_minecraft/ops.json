@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "3113516f-ef31-3868-8197-6bc01ae321bb",
+    "name": "Rekiam",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
